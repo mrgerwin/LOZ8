@@ -3,7 +3,7 @@ Music and Sound FX
 In this lesson you will be learning how to use music and sound effects in your game.  Working with classes to produce the sounds at the correct time.
 
 Video - YouTube - https://www.youtube.com/watch?v=R7eisrWk2fw  
-Video - EdPuzzle -  
+Video - EdPuzzle - https://edpuzzle.com/media/5f187f8b30f7463f1c0295a5   
 
 Extensions -  
 1. Add a start screen.  You can find the title screen image here: http://www.zeldagalaxy.com/wp-content/img/sprites/nes/loz/title.png
