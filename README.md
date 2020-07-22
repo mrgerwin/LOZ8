@@ -16,4 +16,4 @@ Extensions -
   
 Challenge -
 1. In the original game, the waterfall was animated by using three different colors for the water.  Program this or animate something else if your start screen is different.
-2. Use GIMP to change the colors of the letters so that you have different colors.  Save as different image files.  Change the background image through these image files to create the illusion that the letters are animated.  Again see original Legend of Zelda game on youTube to see what I mean.  https://www.youtube.com/watch?v=AfoCuPjFtX8   
+2. Use GIMP to change the colors of the letters so that you have different colors.  Or use the sprite sheet from the extensions.  Save as different image files.  Change the background image through these image files to create the illusion that the letters are animated.  Again see original Legend of Zelda game on youTube to see what I mean.  https://www.youtube.com/watch?v=AfoCuPjFtX8   
